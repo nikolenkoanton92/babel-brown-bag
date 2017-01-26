@@ -23,8 +23,6 @@ You should have installed `npm` and `node`
 
 * add `index.js` to your project
 with content
-```javascript
-
 
 ```javascript
 var express =  require('express');
