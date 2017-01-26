@@ -1,0 +1,26 @@
+{
+  "name": "babel-brown-bag",
+  "version": "1.0.0",
+  "description": "You should have installed `npm` and `node`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolenkoanton92/babel-brown-bag.git"
+  },
+  "author": "Anton Nikoleno <nikolenkoanton92@gmail.com> (http://antonnikolenko.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikolenkoanton92/babel-brown-bag/issues"
+  },
+  "homepage": "https://github.com/nikolenkoanton92/babel-brown-bag#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-preset-env": "^1.1.8"
+  }
+}
