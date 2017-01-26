@@ -72,8 +72,9 @@ setInterval(()=> {
   el.innerHTML = counter;
 },INTERVAL_NUMBER)
 
-```
+* create folder `build`
 
+```
 run command to transpile javascript
 
 ```
