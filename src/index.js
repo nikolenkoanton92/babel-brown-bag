@@ -5,4 +5,4 @@ let counter = 0;
 setInterval(()=> {
   counter++;
   el.innerHTML = counter;
-},INTERVAL_NUMBER)
+}, INTERVAL_NUMBER);

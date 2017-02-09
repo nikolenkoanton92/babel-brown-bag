@@ -10,14 +10,14 @@ You should have installed `npm` and `node`
 * run command in your terminal
 ```
   npm install express  --save
-  npm install --save-dev babel-cli babel-preset-env
+  npm install --save-dev babel-cli babel-preset-es2015
 ```
 
 * Create .babelrc configuration file
 
 ```json
 {
-  "presets": ["env"]
+  "presets": ["es2015"]
 }
 ```
 
@@ -69,6 +69,7 @@ setInterval(()=> {
   counter++;
   el.innerHTML = counter;
 },INTERVAL_NUMBER)
+```
 
 * create folder `build`
 
